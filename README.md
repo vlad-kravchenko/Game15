@@ -1,2 +1,1 @@
-# Game15
-Classical game
+Классические пятнашки на WPF.
